@@ -1,21 +1,20 @@
-import logo from './logo.svg';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        <img src='./logo.png' className="App-logo" alt="formation" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          <code>61736466617364666c6b6a616873646c666b6a61736468666c61736a6466686c61736b646a6668616c7364</code>
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://github.com/johnlinnane"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          GH
         </a>
       </header>
     </div>
@@ -23,3 +22,6 @@ function App() {
 }
 
 export default App;
+
+
+
